@@ -1,3 +1,5 @@
+<img width="972" height="683" alt="image" src="https://github.com/user-attachments/assets/beb101c9-d02e-4515-92cb-f61295f0246c" />
+
 # 🖱️ Mouse Auto Clicker
 
 A lightweight, high-speed Windows mouse auto-clicker with a clean GUI.  
