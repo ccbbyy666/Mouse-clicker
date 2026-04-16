@@ -1,5 +1,3 @@
-<img width="972" height="683" alt="image" src="https://github.com/user-attachments/assets/beb101c9-d02e-4515-92cb-f61295f0246c" />
-
 # 🖱️ Mouse Auto Clicker
 
 A lightweight, high-speed Windows mouse auto-clicker with a clean GUI.  
@@ -61,28 +59,7 @@ python auto_clicker.py
 
 ## 🖥️ Screenshot
 
-```
-┌─────────────────────────────────────────────┐
-│  🖱️  Mouse Auto Clicker  v1.1               │
-├─────────────────────────────────────────────┤
-│  Live Cursor Position  X: 1024   Y:  768    │
-│                                             │
-│  Click Mode                                 │
-│  ● Mode 1 – Current position                │
-│  ○ Mode 2 – Fixed position                  │
-│  ○ Mode 3 – Multi-point                     │
-│                                             │
-│  Click Parameters                           │
-│  Interval (ms): [  50] ≈ 20.0 cps          │
-│  [1ms][5ms][10ms][50ms][100ms][500ms]       │
-│  Click count:   [ 100]  ☐ Infinite loop    │
-│  Mouse button:  [left ▼]                   │
-│                                             │
-│       [ ▶  Start  (F6) ]  [ ✖ Exit ]       │
-├─────────────────────────────────────────────┤
-│ Status: Ready  | Clicks: 0   F6=Start/Stop  │
-└─────────────────────────────────────────────┘
-```
+<img width="972" height="683" alt="image" src="https://github.com/user-attachments/assets/beb101c9-d02e-4515-92cb-f61295f0246c" />
 
 ---
 
